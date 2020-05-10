@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/docks":{"guestpath":"/home/vagrant/docks","hostpath":"/Users/yuichi/Desktop/laravelpractice/docker/Docks","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/yuichi/Desktop/laravelpractice/docker","disabled":false,"__vagrantfile":true}}}
